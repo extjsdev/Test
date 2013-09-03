@@ -70,7 +70,7 @@ ul.tabs li a.active {
 .content ul {
 	margin:0px;
 	padding:0px 20px 0px 20px;
-	
+
 }
 .content ul li {
 	list-style:none;
@@ -101,3 +101,5 @@ ul.tabs li a.active {
 .content ul li a:hover small {
 	color:#baae8e;
 }
+
+
